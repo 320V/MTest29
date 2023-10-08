@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Verileri Analiz Ediyoruz",
+    "short_name": "MEB - Verileri Analiz Ediyoruz",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#302D80",
+    "theme_color": "#000",
+    "description": "Verileri Analiz Ediyoruz",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
