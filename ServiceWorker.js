@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.VerileriAnalizEdiyoruz-MEB - Verileri Analiz Ediyoruz-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/29-Verileri Analiz Ediyoruz.loader.js",
+    "Build/29-Verileri Analiz Ediyoruz.framework.js",
+    "Build/29-Verileri Analiz Ediyoruz.data",
+    "Build/29-Verileri Analiz Ediyoruz.wasm",
     "TemplateData/style.css"
 
 ];
